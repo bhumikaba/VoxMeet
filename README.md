@@ -1,4 +1,4 @@
-🎥 VoxMeet — Real-Time Video Conferencing Platform
+## 🎥 VoxMeet — Real-Time Video Conferencing Platform
 
 Connect Beyond Boundaries. Communicate Without Limits.
 
@@ -6,7 +6,7 @@ VoxMeet is a full-stack video conferencing web application designed to make onli
 
 Whether connecting with friends, collaborating with teammates, or catching up with loved ones, VoxMeet provides a unified platform for seamless virtual communication.
 
-✨ Key Features
+## ✨ Key Features
 
 🔐 User Authentication — Register and log in with username and password authentication, with passwords securely hashed using bcrypt.
 
@@ -30,7 +30,7 @@ Whether connecting with friends, collaborating with teammates, or catching up wi
 
 🛠️ Technology Stack
 
-Frontend
+## Frontend
 
 React.js — Component-based user interface development
 
@@ -46,7 +46,7 @@ Axios — HTTP requests to backend APIs
 
 Socket.IO Client — Real-time communication with the server
 
-Backend
+## Backend
 
 Node.js — JavaScript runtime
 
@@ -84,7 +84,7 @@ Postman — API testing
 
 MongoDB Atlas — Cloud database hosting, when configured
 
-🏗️ System Architecture
+## 🏗️ System Architecture
 
 VoxMeet follows a client-server architecture with a real-time communication layer.
 
@@ -115,7 +115,7 @@ VoxMeet follows a client-server architecture with a real-time communication laye
                  │     Between Peers      │
                  └────────────────────────┘
 
-How It Works
+## How It Works
 
 Users open VoxMeet and register or log in.
 The frontend sends authentication requests to the Express backend.
